@@ -1,5 +1,8 @@
 # ANMF
 This is our implementation for the paper“Additional Neural Matrix Factorization model for Computational drug repositioning. BMC Bioinformatics ”
+#Author
+Xin-Xing Yang Southeast University 
+Email:220174323@seu.edu.cn
 # Environment Settings
 We use Keras with Theano as the backend. 
 - Keras version:  '1.0.7'
